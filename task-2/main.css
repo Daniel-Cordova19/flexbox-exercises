@@ -4,6 +4,8 @@ body {
     font: 1.2em / 1.5 Helvetica Neue, Helvetica, Arial, sans-serif;
     padding: 1em;
     margin: 0;
+    display: flex;
+    justify-content:center;
 }
 
 ul {
@@ -11,6 +13,9 @@ ul {
     list-style: none;
     padding: 0;
     margin: 0;
+    display: flex;
+    
+    
     /*Add your code here*/
 }
 
@@ -20,5 +25,7 @@ li {
     border-radius: .5em;
     color: #fff;
     padding: .5em;
+    flex: 1 0 0 ;
+    
     /*Add your code here*/
 }
