@@ -12,8 +12,10 @@ nav ul {
     margin: 0;
     display: flex;
     justify-content: space-around;
+    
     /*Add your code here*/
 }
+
 
 nav a:link,
 nav a:visited {
